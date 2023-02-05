@@ -1,0 +1,60 @@
+  *,*::before,*::after{
+	margin: 0;
+	padding: 0;
+	border: 0; 
+ }
+ li {
+      list-style: none;
+ } 
+ a,
+ a:visited {
+	 text-decoration: none;
+ }
+ a:hover {
+	 text-decoration: none;
+ }
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6 {
+	 font-weight: inherit;
+	 font-size: inherit;
+ }
+ img {
+	 vertical-align: top;
+ }
+
+
+
+.header {
+ color: orangered; 	 
+}
+.menu {
+	color: blue;
+}
+h1 {
+	color: black;
+}
+.text {
+	color: crimson;
+}
+h2 {
+	color: blueviolet;
+}
+.block{
+	color: cadetblue;
+}
+.paragraph {
+  color: chocolate;
+}
+ .block span{
+	color: chartreuse;
+}
+#green{
+	color: green;
+}
+.footer {
+	color: cornflowerblue;
+}
